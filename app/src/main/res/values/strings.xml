@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NextBus</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_data_found">No data found</string>
+</resources>
